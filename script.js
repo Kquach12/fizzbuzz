@@ -22,9 +22,3 @@ function fizzBuzz(){
 
 fizzBuzz();
 
-
-// output += "<div class = 'row'>";
-//             for (var i = 0; i < world[row].length; i++){
-//                 output += "<div class = " + worldDict[world[row][i]] + "></div>";
-//             }
-//             output += "</div>"
